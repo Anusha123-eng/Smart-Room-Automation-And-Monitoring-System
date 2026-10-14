@@ -53,7 +53,7 @@ The home appliances system is implemented using the ESP8266 microcontroller. It 
 
 <img width="296" height="151" alt="image" src="https://github.com/user-attachments/assets/eb39aed9-bb1d-4f1f-b6d0-0b77ef2ec143" />
 
-# 4.2 Security System
+# Security System
 
 The security system is implemented using the ESP32-CAM. The camera continuously monitors the entrance and detects people. If a person is detected, the system checks their face. If no person is detected, the camera returns to preview mode.
 
