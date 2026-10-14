@@ -27,9 +27,13 @@ The main hardware components required for the project are:
 - **Light and Fan:** These appliances can be switched ON or OFF remotely to improve convenience and save energy.
 
 **- SYSTEM DESIGN**
+
 The  system  design for this includes two modules: 
+
 • Home Appliances System 
+
 • Security System 
+
 • Circuit Diagram
 
 <img width="319" height="272" alt="image" src="https://github.com/user-attachments/assets/34c118bc-1389-4b03-b507-8dcb2f10aa93" />
@@ -81,6 +85,7 @@ states that camera detects the unauthorized person and the door remains unlock.
 states that when unauthorized person entered the room it sends the alert message to owner. 
 
 <img width="328" height="207" alt="image" src="https://github.com/user-attachments/assets/c7160432-1973-430a-ab6b-3d14769a484d" />
+
 
 <img width="311" height="171" alt="image" src="https://github.com/user-attachments/assets/616bd272-6c9a-4cea-9e20-445efb56a462" />
 
