@@ -61,7 +61,8 @@ If the person is the owner, they can enter the correct password to unlock the do
 
 <img width="310" height="172" alt="image" src="https://github.com/user-attachments/assets/396df998-14f5-4d31-aade-88cc5accd7d0" />
 
-**RESULT AND IMPLMENTATION**
+
+                                          **RESULT AND IMPLMENTATION**
 
 <img width="288" height="135" alt="image" src="https://github.com/user-attachments/assets/24838fe6-b45a-4ff9-ad6a-88390839a64a" />
 
