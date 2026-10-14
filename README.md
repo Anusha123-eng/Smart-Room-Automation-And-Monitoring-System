@@ -1,4 +1,4 @@
-Smart home systems communicate on a network of smart devices such as lights, fans, security cameras, and appliances, all of which can be controlled remotely. These devices communicate with each other using protocol like Wi-Fi enabling seamless interaction and automation. The primary benefits of smart home automation is convenience.
+Smart room systems communicate on a network of smart devices such as lights, fans, security cameras, and appliances, all of which can be controlled remotely. These devices communicate with each other using protocol like Wi-Fi enabling seamless interaction and automation. The primary benefits of smart home automation is convenience.
 
 # Problem Statement
 With the increasing demand for convenience and security in modern living, traditional home management systems often lack the integration and responsiveness required for effective automation. Homeowners face challenges such as the inability to remotely monitor and control devices, manage energy consumption efficiently, and ensure comprehensive security against unauthorized access. This project aims to develop a smart home automation and security system that seamlessly integrates various home devices, provides real-time monitoring and alerts, enhances energy efficiency, and offers robust security features to enhance the overall living experience.
@@ -38,8 +38,7 @@ In this Figure firstly we should check the sensor value which are already upload
 
 <img width="335" height="368" alt="image" src="https://github.com/user-attachments/assets/29fe93ea-ca15-4ff5-8e51-211de7d1b5cf" />
 
-In this figure  ESP8266 camera is on preview mode. If the person is detected 
-then it will recognize the person face. If not detected then it will return switch to preview mode. After recognizing persons face if the person is known and authorized or owner, he can directly enter the password if it is valid, it opens the door. If the person is authorized but he is not the owner then he can get the password from the owner through communication. If the person is unknown and unauthorized the link will be sent to owner which in real time he can see the face of unauthorized person who is trying to enter the room and he can take security measures. 
+In this figure  ESP8266 camera is on preview mode. If the person is detected then it will recognize the person face. If not detected then it will return switch to preview mode. After recognizing persons face if the person is known and authorized or owner, he can directly enter the password if it is valid, it opens the door. If the person is authorized but he is not the owner then he can get the password from the owner through communication. If the person is unknown and unauthorized the link will be sent to owner which in real time he can see the face of unauthorized person who is trying to enter the room and he can take security measures. 
 
 **Home Appliances System**
 
@@ -59,53 +58,41 @@ If the person is the owner, they can enter the correct password to unlock the do
 
 <img width="288" height="135" alt="image" src="https://github.com/user-attachments/assets/24838fe6-b45a-4ff9-ad6a-88390839a64a" />
 
-Shows the dashboard of the Blynk application in which it is connected to 
-the ESP8266 sensor, it contains home appliances switches like LED, Fan. It also 
-shows the value of current  temperature and humidity. 
+Shows the dashboard of the Blynk application in which it is connected to the ESP8266 sensor, it contains home appliances switches like LED, Fan. It also shows the value of current  temperature and humidity. 
 
 <img width="295" height="148" alt="image" src="https://github.com/user-attachments/assets/a87e951a-500d-4c75-aa94-5abb15f92265" />
 
-shows that both the switches are activated. It turns on both light and fan 
-through Blynk app.
+shows that both the switches are activated. It turns on both light and fan through Blynk app.
 
 <img width="292" height="174" alt="image" src="https://github.com/user-attachments/assets/bea30618-12d9-493a-ad66-22b4d0b3004e" />
 
- states that camera recognizes the authorized person and allow user to 
-enter the room. 
+states that camera recognizes the authorized person and allow user to enter the room. 
 
 <img width="309" height="188" alt="image" src="https://github.com/user-attachments/assets/20a59b95-69f2-4c5f-96fb-11e22252c131" />
- shows that if authorized person trying to enter the room the door is 
-automatically opened. 
+
+shows that if authorized person trying to enter the room the door is automatically opened. 
 
 <img width="317" height="183" alt="image" src="https://github.com/user-attachments/assets/df7bb73b-7c6f-4e19-b1c4-7fc7e7bcabad" />
 
- states that camera detects the unauthorized person and the door remains 
-unlock.
-
+states that camera detects the unauthorized person and the door remains unlock.
 
 <img width="310" height="173" alt="image" src="https://github.com/user-attachments/assets/389ae6f9-5f2c-4ec9-aa5b-8a69446a182d" />
 
- states that when unauthorized person entered the room it sends the alert 
-message to owner. 
-
+states that when unauthorized person entered the room it sends the alert message to owner. 
 
 <img width="328" height="207" alt="image" src="https://github.com/user-attachments/assets/c7160432-1973-430a-ab6b-3d14769a484d" />
 
 <img width="311" height="171" alt="image" src="https://github.com/user-attachments/assets/616bd272-6c9a-4cea-9e20-445efb56a462" />
 
-shows that if any unauthorized person trying to enter the room but he is 
-known person. 
-
-
+shows that if any unauthorized person trying to enter the room but he is known person. 
 
 <img width="320" height="176" alt="image" src="https://github.com/user-attachments/assets/a9a7ef3b-4c6d-4001-971c-40c2bc351cd5" />
 
- shown that Owner activates password to enter the room for known person.
+shown that Owner activates password to enter the room for known person.
 
- <img width="297" height="177" alt="image" src="https://github.com/user-attachments/assets/1238c945-9b6b-4743-85ca-253229b64811" />
+<img width="297" height="177" alt="image" src="https://github.com/user-attachments/assets/1238c945-9b6b-4743-85ca-253229b64811" />
 
- shows that if authorized person trying to enter the room the door is 
-automatically opened.
+shows that if authorized person trying to enter the room the door is automatically opened.
 
 
 
