@@ -9,8 +9,11 @@ With the increasing demand for convenience and security in modern living, tradit
 Software requirements describe the software and applications needed to run the Smart IoT Home Automation System.
 
 The software requirements are:
+
 **Laptop:** Used to write, edit, and upload the program.
+
 **Android Phone:** Used to monitor and control home appliances.
+
 **Blynk App:** Used to control appliances and receive notifications remotely.
 
 ## Hardware Requirements
