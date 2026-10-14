@@ -86,6 +86,7 @@ states that when unauthorized person entered the room it sends the alert message
 
 <img width="328" height="207" alt="image" src="https://github.com/user-attachments/assets/c7160432-1973-430a-ab6b-3d14769a484d" />
 
+unauthorized person but he is known person.
 
 <img width="311" height="171" alt="image" src="https://github.com/user-attachments/assets/616bd272-6c9a-4cea-9e20-445efb56a462" />
 
